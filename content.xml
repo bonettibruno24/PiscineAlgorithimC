@@ -1,0 +1,12 @@
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.dts.freefireth" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][960,540]" drawing-order="0" hint="">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.dts.freefireth" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][960,540]" drawing-order="1" hint="">
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.dts.freefireth" content-desc="" 
+        checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][960,540]" drawing-order="2" hint="">
+        <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.dts.freefireth" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][960,540]" drawing-order="1" hint="">
+          <node index="0" text="" resource-id="" class="android.view.View" package="com.dts.freefireth" content-desc="Game view" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="true" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][960,540]" drawing-order="1" hint="" />
+        </node>
+      </node>
+    </node>
+  </node>
+</hierarchy>

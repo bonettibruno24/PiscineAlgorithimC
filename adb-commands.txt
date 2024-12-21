@@ -1,0 +1,9 @@
+adb devices
+adb connect 127.0.0.1:5555
+adb disconnect emulator-5554
+verificar processo: adb -s emulator-5554 shell getprop
+adb kill-server
+adb start-server
+
+
+com.dts.freefireth
