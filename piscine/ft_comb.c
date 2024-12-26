@@ -3,7 +3,7 @@ void write_n(char v[])
 {
   if (v[0] == '7' && v[1] == '8' && v[2] == '9')
   {
-    write(1, v, 3); //escvra in 3 firts bytes
+    write(1, v, 3); // 3 firts bytes
     write(1, ".\n", 2);
   }
   else
@@ -24,7 +24,6 @@ int main() {
     v[1] = v[0] + 1;
     while(v[1] <= '8')
     {
-      v[0]++;
       v[2] = v[1] + 1;
       while(v[2] <= '9')
       {
@@ -35,7 +34,6 @@ int main() {
       }
       v[0]++;
     }
-  
   
   //Objective numbers  7  8  9 
 
